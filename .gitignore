@@ -1,0 +1,9 @@
+spam/
+__pycache__
+logs/
+*.webm
+*.py
+!cogs/*.py
+!hexbot.py
+!games/*.py
+!utils/*.py
